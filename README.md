@@ -40,8 +40,8 @@ This project implements a **LangGraph Supervisor Agent**. The supervisor coordin
 
 ### Install Dependencies
 ```bash
-git clone <your_repo_url>
-cd <your_repo_name>
+git clone https://github.com/Muzamilkhan7860/Assignment_project
+cd updated_project
 source assignment/bin/activate
 pip install -r requirements.txt
 ```

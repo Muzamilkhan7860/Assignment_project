@@ -2,7 +2,7 @@
 import os
 from dotenv import load_dotenv
 
-# ✅ Load environment variables first!
+#  Load environment variables first
 load_dotenv()
 
 from supervisor.supervisor import run_supervisor   # now safe to import
@@ -15,7 +15,7 @@ def main():
     if not api_key:
         raise RuntimeError("❌ OPENROUTER_API_KEY not found in environment. Check your .env file!")
 
-    print(f"✅ Loaded OPENROUTER_API_KEY (length {len(api_key)} characters)")
+    print(f" Loaded OPENROUTER_API_KEY (length {len(api_key)} characters)")
 
     user_objective = input("Enter user objective: ")
     result = run_supervisor(user_objective)

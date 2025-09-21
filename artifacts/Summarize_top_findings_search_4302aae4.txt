@@ -1,0 +1,27 @@
+[
+  {
+    "title": "[PDF] How to Summarize a Research Article | UConn Writing Center",
+    "url": "https://writingcenter.uconn.edu/wp-content/uploads/sites/593/2014/06/How_to_Summarize_a_Research_Article1.pdf",
+    "snippet": "Briefly look at each section to identify: \u2022 the research question and reason for the study (stated in the Introduction) \u2022 the hypothesis or hypotheses tested (Introduction) \u2022 how the hypothesis was tested (Method) \u2022 the findings (Results, including tables and figures) \u2022 how the findings were interpreted (Discussion) Underline key sentences or write the key point (e.g., hypothesis, design) of each paragraph in the margin. \u2022 If you find yourself sticking closely to the original language and making only minor changes to the wording, then you probably don't understand the study Writing the Summary Like an abstract in a published research article, the purpose of an article summary is to give the reader a brief overview of the study."
+  },
+  {
+    "title": "12 Best Tools For Perfect Research Summary Writing \u2014 Otio Blog",
+    "url": "https://otio.ai/blog/research-summary",
+    "snippet": "This information lets you confidently write your research summary and finish your paper. Otio\u2019s AI research and writing partner can help you write efficient research summaries and papers. \u2022 How To Summarize A Research Paper   Having a good summary is almost as important as writing a research paper. Before writing a research summary, you must read and understand the entire research paper. Scribbr is an AI-driven academic writing assistant with a summarization feature tailored for research papers. The tool assists users in the research paper writing process by summarizing and condensing information from various sources, offering support in structuring and organizing content effectively. Jasper AI is a robust summarizing tool that helps users generate AI-powered paper summaries quickly and effectively."
+  },
+  {
+    "title": "Free AI-powered Summarizing Tool | No Sign-up Required",
+    "url": "https://www.grammarly.com/ai/ai-writing-tools/summarizing-tool",
+    "snippet": "These summary examples were created with Grammarly\u2019s generative AI writing assistance.You can adjust any drafts you create to further tailor them to your needs, and remember to cite the original source you used for your summary to avoid plagiarism. Tools like Grammarly\u2019s summarizer, which uses AI technology, can help you create thoughtful summaries in less time. With the help of Grammarly\u2019s text and article summarizer, you can quickly and concisely convey the key points of any piece of English writing. A text summarizer is an AI-based tool that creates summaries of any piece of writing, from lists of bullet points to news articles to research papers. Grammarly has over a decade of experience creating writing-focused, advanced AI technology, so when you use Grammarly\u2019s online summarizing tool, you can rest assured you\u2019re getting top-quality content."
+  },
+  {
+    "title": "Research paper summarizer \u2014 A quick overview - SciSpace",
+    "url": "https://scispace.com/resources/research-paper-summarizer-an-overview/",
+    "snippet": "Research paper summarizer, an AI-powered tool to summarize research articles and enhance reading comprehension. Research paper summarizer is an AI-powered article summarizer tool designed to condense extensive academic papers into concise summaries. AI summarizers or research paper summarizersarea revolutionary tool that is changing the conventional reading method of scholarly publishing. For example, Scholarcy, an AI-based tool, creates a summary-length flashcard of research papers enlisting the key insights, references, and figures. SciSpace ChatPDF, an AI tool helps researchers understand research papers by summarizing every bit of the highlighted information. Although AI summarizers are valuable tools for quickly extracting essential information from lengthy research papers they should be only used as aids for initial comprehension rather than as substitutes for in-depth reading and analysis."
+  },
+  {
+    "title": "Scholarcy - Knowledge made simple",
+    "url": "https://www.scholarcy.com/",
+    "snippet": "# **Summarize, analyze and organize your research** Flashcard summary Scholarcy converts long complex texts into interactive summary flashcards, which highlight key information. Smart highlighting and analyzing features guide you to important sections of text and help you interpret them. Flashcard summary Our Flashcards provide a structured, consistent format to read and explore any text from, whether you\u2019re reading just one article or 20. Generate and save flashcards to your library even while browsing and reading on the go. Export your flashcards to a range of file formats that are compatible with lots of research and productivity apps. Convert your Zotero library into Scholarcy Flashcards for more efficient article screening. Export your flashcards to your favourite citation manager or generate a one-click, fully formatted bibliography in Word."
+  }
+]

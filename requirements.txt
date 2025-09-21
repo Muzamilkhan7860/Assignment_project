@@ -1,0 +1,8 @@
+langgraph
+langsmith
+openai
+tavily-python
+python-dotenv
+beautifulsoup4
+requests
+

@@ -1,0 +1,2 @@
+Artifact for task: Summarize top findings
+notes: To summarize top findings, first gather data via search or scraping, then analyze and extract key points.

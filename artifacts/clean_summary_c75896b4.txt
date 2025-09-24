@@ -1,0 +1,9 @@
+Here’s a clear summary of the findings:  
+
+1. **CNN for Phishing URL Detection** – A study improves phishing URL detection using deep learning with Convolutional Neural Networks (CNN).  
+2. **PhishGuard Model** – A machine learning model detects phishing URLs using a dataset of 500K+ entries from Kaggle.  
+3. **Survey of ML Techniques** – A review of modern machine learning methods for phishing detection, focusing on high accuracy.  
+4. **Bi-LSTM Approach** – A deep learning method using Bidirectional LSTM (Bi-LSTM) classifies URLs into four categories.  
+5. **1D CNN System** – A deep learning-based phishing detection system employs a 1D Convolutional Neural Network.  
+
+All studies highlight the effectiveness of **machine learning and deep learning** (CNN, Bi-LSTM) in detecting phishing URLs with improved accuracy.

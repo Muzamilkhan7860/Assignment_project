@@ -1,0 +1,19 @@
+import json
+
+def summarize_findings(data):
+    # Placeholder function to process and summarize data
+    summary = {
+        'key_points': [],
+        'total_findings': 0
+    }
+    if isinstance(data, list):
+        summary['key_points'] = data[:5]  # Top 5 findings as an example
+        summary['total_findings'] = len(data)
+    elif isinstance(data, dict):
+        summary['key_points'] = list(data.values())[:5]
+        summary['total_findings'] = len(data)
+    return summary
+
+# Example usage:
+# data = ["Finding 1", "Finding 2", "Finding 3"]
+# print(summarize_findings(data))

@@ -1,0 +1,2 @@
+Artifact for task: Write a Python script based on the objective
+notes: To write a Python script based on the objective, first clarify the objective by searching for examples or documentation if needed. Then, write the script and save it to a file.

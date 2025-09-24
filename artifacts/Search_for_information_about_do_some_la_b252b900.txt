@@ -1,0 +1,2 @@
+Artifact for task: Search for information about: do some lateest research on phishing detection also do some code
+notes: fallback plan

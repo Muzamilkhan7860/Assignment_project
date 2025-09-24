@@ -1,0 +1,27 @@
+[
+  {
+    "title": "(PDF) Detection of Phishing Website Using Machine Learning and ...",
+    "url": "https://www.researchgate.net/publication/388220390_Detection_of_Phishing_Website_Using_Machine_Learning_and_Features_Extraction",
+    "snippet": "PDF | On Jan 21, 2025, I. A Amaefule and others published Detection of Phishing Website Using Machine Learning and Features Extraction"
+  },
+  {
+    "title": "Phishing Website Detection: An In\u2010Depth Investigation of Feature ...",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/exsy.13824",
+    "snippet": "Website phishing detection is considered a binary classification problem. Therefore, this article uses well-known machine learning algorithms"
+  },
+  {
+    "title": "Enhancing Phishing Detection: A Machine Learning Approach With ...",
+    "url": "https://ieeexplore.ieee.org/iel8/6287639/10820123/10892118.pdf",
+    "snippet": "Red dot bottle"
+  },
+  {
+    "title": "Web-based phishing URL detection model using deep learning ...",
+    "url": "https://link.springer.com/article/10.1007/s41060-025-00728-9",
+    "snippet": "This study proposes an EGSO-CNN model to detect web phishing by integrating features and optimizing deep learning (DL) techniques."
+  },
+  {
+    "title": "A Novel Framework for Effective Phishing URL Detection using an ...",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0950705125013127",
+    "snippet": "Skip to article * Access through\u00a0**your organization** ## Article preview Author links open overlay panel, The structure of this paper is organized as follows: Section 2 provides a comprehensive overview of the related work in the field. This section provides a comprehensive overview of existing research and methodologies related to phishing detection, with a particular focus on URL-based analysis and the application of machine learning and deep learning techniques. ## Declaration of competing interest The authors declare that they have no conflict of interest. Sci. ### Sci. Rep. Ambient Intell. Intell. ### IEEE Access ### ICASSP 2021\u0080\u00932021 IEEE International Conference on Acoustics, Speech and Signal Processing ### IEEE Access Intell."
+  }
+]

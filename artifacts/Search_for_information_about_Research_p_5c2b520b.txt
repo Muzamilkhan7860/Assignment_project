@@ -1,0 +1,27 @@
+[
+  {
+    "title": "(PDF) Phishing URL Detection Using Deep Learning with CNN ...",
+    "url": "https://www.researchgate.net/publication/384642895_Phishing_URL_Detection_Using_Deep_Learning_with_CNN_Models",
+    "snippet": "This research study aims to enhance the performance of phishing URL detection models through a series of strategic improvements."
+  },
+  {
+    "title": "PhishGuard: Machine Learning-Powered Phishing URL Detection",
+    "url": "https://ieeexplore.ieee.org/document/10487334/",
+    "snippet": "We propose a machine-learning model to detect phishing URLs. To detect these malicious URLs, we use a dataset of over 500K entries collected from the Kaggle"
+  },
+  {
+    "title": "Machine Learning Techniques for Detecting Phishing URL Attacks",
+    "url": "https://www.researchgate.net/publication/368319770_Machine_Learning_Techniques_for_Detecting_Phishing_URL_Attacks",
+    "snippet": "This paper presents a survey of different modern machine-learning approaches that handle phishing problems and detect with high-quality accuracy different"
+  },
+  {
+    "title": "[2504.21049] Phishing URL Detection using Bi-LSTM - arXiv",
+    "url": "https://arxiv.org/abs/2504.21049",
+    "snippet": "This paper proposes a deep learning-based approach using a Bidirectional Long Short-Term Memory (Bi-LSTM) network to classify URLs into four categories."
+  },
+  {
+    "title": "Detecting Phishing URLs Based on a Deep Learning Approach to ...",
+    "url": "https://www.mdpi.com/2076-3417/14/22/10086",
+    "snippet": "In this study, we propose a deep learning-based system using a 1D convolutional neural network to detect phishing URLs."
+  }
+]

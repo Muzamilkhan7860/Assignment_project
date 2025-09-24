@@ -1,0 +1,2 @@
+Artifact for task: Write a Python script based on the objective
+notes: This is a general plan for writing a Python script. Specific steps will depend on the actual objective. First we'll gather requirements, then implement core functionality, add error handling, and finally test the script.

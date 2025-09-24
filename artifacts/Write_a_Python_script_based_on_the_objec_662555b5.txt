@@ -1,0 +1,2 @@
+Artifact for task: Write a Python script based on the objective
+notes: To write a Python script based on the given objective, first understand the objective, then draft the script, and finally test it.

@@ -1,0 +1,5 @@
+{
+  "script_created": false,
+  "research_done": false,
+  "testing_done": false
+}

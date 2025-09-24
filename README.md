@@ -42,7 +42,7 @@ This project implements a **LangGraph Supervisor Agent**. The supervisor coordin
 ```bash
 git clone https://github.com/Muzamilkhan7860/Assignment_project
 cd Assignment_project
-source assignment/bin/activate
+pip install -r requirements.txt
 
 ```
 
@@ -52,6 +52,10 @@ Create a `.env` file in the root directory:
 PROJECT_ARTIFACT_DIR=./artifacts
 OPENROUTER_API_KEY=your_key_here
 TAVILY_API_KEY=your_key_here
+LANGSMITH_API_KEY=your_key_here
+LANGCHAIN_TRACING_V2=true
+LANGCHAIN_PROJECT=LangGraph-Supervisor-Demo  
+
 ```
 
 ---
@@ -71,9 +75,25 @@ Enter user objective: Research phishing URL detection papers 2024, summarize, an
 ```bash
 langgraph dev
 ```
-Then open the LangGraph Studio UI in your browser.
+This will open the LangGraph Studio UI in your browser.
+Enter Objective: Provide me some recent publication on spyware detection with the help of machine learning also provide me python code for classification.
+
 
 ---
+
+## Screenshot of LangGraph Studio
+
+The screenshot below shows the **LangGraph Supervisor Demo** running in **LangGraph Studio** after starting the project with `langgraph dev`.  
+You can see the interface where user objectives are entered and worker agents process tasks in real time.
+
+![LangGraph Studio Screenshot](./output_images/langsmith_output.png)
+![Artificats ](./output_images/artificats.png)
+![Sub-Agent logs ](./output_images/subagent_logs.png)
+![Summeries ](./output_images/summeries.png)
+
+
+---
+
 
 ##  AI Assistance Disclosure
 This project was partly developed using AI assistance.  

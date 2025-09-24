@@ -1,0 +1,5 @@
+initial = 5
+given = 2
+received = 10
+final = initial - given + received
+print(f'John has {final} candies.')

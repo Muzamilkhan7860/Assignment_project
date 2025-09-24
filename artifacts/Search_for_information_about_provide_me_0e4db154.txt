@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Static Malware Detection and Classification Using Machine ...",
+    "url": "https://www.mdpi.com/2673-4591/107/1/76",
+    "snippet": "by Kamdan\u00b72025\u2014AI-basedMalwareandRansomware DetectionModels. ... The Rise of Machine Learning forDetectionandClassificationofMalware:Research"
+  },
+  {
+    "title": "Malware Detection and Classification Using Machine ...",
+    "url": "https://github.com/dchad/malware-detection",
+    "snippet": "1. MicrosoftMalware ClassificationChallenge \u00b7 2. VirusShare.comMalwareCollection Analysis \u00b7 3. Automated SensorMalware Detection\u00b7 4. References \u00b7 5. Notes on"
+  },
+  {
+    "title": "A survey of malware detection using deep learning",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2666827024000227",
+    "snippet": "by A Bensaoud\u00b72024\u00b7Cited by 94\u2014It reviews the use of natural language processing inmalware classification(Section 10). \u2022. It presents the deep learning models for cryptographerransomware("
+  },
+  {
+    "title": "Semantic Malware Classification Using Artificial ...",
+    "url": "https://www.sciopen.com/article/10.32604/cmes.2025.061080?issn=1526-1492",
+    "snippet": "Machine learning-based approaches exhibit their potential but often neglect semantic segmentation of malware files that can improve classification performance. This research applies deep learning to malware detection, using Convolutional Neural Network (CNN) architectures adapted to work with semantically extracted data to classify malware into malware families. A comprehensive survey on machine learning approaches for malware detection in IoT-based enterprise information system. The rise of machine learning for detection and classification of malware: research developments, trends and challenges. Malware detection using machine learning and deep learning. A new malware classification framework based on deep learning algorithms. Automatic malware classification and new malware detection using machine learning. * A general machine learning process for malware detection (Source: Ling et al."
+  },
+  {
+    "title": "Malware Detection with Artificial Intelligence: A Systematic ...",
+    "url": "https://dl.acm.org/doi/full/10.1145/3638552",
+    "snippet": "by MG Gaber\u00b72024\u00b7Cited by 84\u2014This article focuses onmalware detectionthat includes trojans,ransomware, crypto miners, worms, botnets, and others, each with distinct"
+  }
+]

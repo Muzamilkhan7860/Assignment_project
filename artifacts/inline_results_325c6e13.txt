@@ -1,0 +1,8 @@
+{
+  "step1": "Understand the objective and requirements",
+  "step2": "Design script architecture",
+  "step3": "Implement core functionality",
+  "step4": "Add error handling and logging",
+  "step5": "Test and debug",
+  "step6": "Document the script"
+}

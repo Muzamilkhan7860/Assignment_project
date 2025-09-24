@@ -1,0 +1,27 @@
+[
+  {
+    "title": "How can I generate some Python scripts based on different ...",
+    "url": "https://stackoverflow.com/questions/58015230/how-can-i-generate-some-python-scripts-based-on-different-conditions-nicely",
+    "snippet": "I want to generate some Python scripts based on different conditions. It means: I have a constant body of my Python scripts, which is exactly the same in all"
+  },
+  {
+    "title": "How to Build a Python Script: A Beginner's Guide ...",
+    "url": "https://www.codecademy.com/article/python-scripting",
+    "snippet": "## What is a Python script? python-scripts/ \u251c\u2500\u2500 rename_files.py # Your main Python script file Python allows us to import pre-written code (called modules) to extend the functionality of our script. In Python, it\u2019s common to include a special `if __name__ == \"__main__\":` block to run our script only when executed directly, not when imported as a module into another script. Let us build a Python script that automates a task: renaming files in a folder. ## How to run a Python script? ### Run the Python script from the terminal * Run the Python script using this command: ### Run the Python script on Visual Studio Code * What is a Python script? * How to run a Python script?"
+  },
+  {
+    "title": "How to Write and Run a Python Script | Linode Docs",
+    "url": "https://www.linode.com/docs/guides/how-to-write-and-run-python-script/",
+    "snippet": "This guide describes the basic concepts behind Python, including how to install and use Python modules. It also explains how to write and run a Python script."
+  },
+  {
+    "title": "Python script with Class and object - Academy Feedback",
+    "url": "https://forum.uipath.com/t/python-script-with-class-and-object/111110",
+    "snippet": "Use \"Load Python Script\" to load the script, \"Invoke Python Method\" to call class methods, and \"Get Python Object\" to get the result. Class"
+  },
+  {
+    "title": "How do you write your scripts? : r/learnpython",
+    "url": "https://www.reddit.com/r/learnpython/comments/1h47o6n/how_do_you_write_your_scripts/",
+    "snippet": "How do you write your scripts? : r/learnpython : r/learnpython Open menu Open navigationGo to Reddit Home Image 1: r/learnpython icon Go to learnpython r/learnpython Image 2: r/learnpython iconr/learnpython Subreddit for posting questions and asking for general advice about all topics related to learning python. How do you write your scripts? When you\u2019re writing a new script, how do you work out the logic before you start writing code? Python automation scripts for daily tasks New to Reddit? Continue with Email  Continue With Phone Number  Top Posts *   Reddit reReddit: Top posts of December 1, 2024 * * * *   Reddit reReddit: Top posts of December 2024 * * * *   Reddit reReddit: Top posts of 2024 * * *"
+  }
+]

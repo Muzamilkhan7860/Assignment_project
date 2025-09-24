@@ -1,0 +1,3 @@
+Artifact for task: Search for information about: Research phishing URL detection papers 2024, summarize, scrape one website, and generate a Python script.
+
+notes: First, search for recent papers on phishing URL detection in 2024. Then, scrape one relevant website for detailed information. Finally, generate a Python script to summarize the findings.

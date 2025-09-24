@@ -1,0 +1,2 @@
+Artifact for task: Search for information about: if john has 5 candies, he give 2 to haroon, and get 10 more from shopkeeper for 10$, now how many candies john has, show step by step.
+notes: This task involves simple arithmetic operations to determine the number of candies John has after giving some away and receiving more. No external tools are needed.

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Making a Python script Object-Oriented - Stack Overflow",
+    "url": "https://stackoverflow.com/questions/1813117/making-a-python-script-object-oriented",
+    "snippet": "I'm writing an application in Python that is going to have a lot of different functions, so logically I thought it would be best to split up my script into"
+  },
+  {
+    "title": "How do you write your scripts? : r/learnpython - Reddit",
+    "url": "https://www.reddit.com/r/learnpython/comments/1h47o6n/how_do_you_write_your_scripts/",
+    "snippet": "Start with a basic plan IN the editor, using comments to dictate the major actions. Fill in the details with code."
+  },
+  {
+    "title": "How to use Python to write scripts to help me with routine tasks - Quora",
+    "url": "https://www.quora.com/How-do-I-use-Python-to-write-scripts-to-help-me-with-routine-tasks",
+    "snippet": "First step is to write a python script to fetch the imdb page and parse the rating. This is typically done by a simple GET request."
+  },
+  {
+    "title": "How to Build a Python Script: A Beginner's Guide to ... - Codecademy",
+    "url": "https://www.codecademy.com/article/python-scripting",
+    "snippet": "## What is a Python script? python-scripts/ \u251c\u2500\u2500 rename_files.py # Your main Python script file Python allows us to import pre-written code (called modules) to extend the functionality of our script. In Python, it\u2019s common to include a special `if __name__ == \"__main__\":` block to run our script only when executed directly, not when imported as a module into another script. Let us build a Python script that automates a task: renaming files in a folder. ## How to run a Python script? ### Run the Python script from the terminal * Run the Python script using this command: ### Run the Python script on Visual Studio Code * What is a Python script? * How to run a Python script?"
+  },
+  {
+    "title": "How to Write and Run a Python Script | Linode Docs",
+    "url": "https://www.linode.com/docs/guides/how-to-write-and-run-python-script/",
+    "snippet": "This guide describes the basic concepts behind Python, including how to install and use Python modules. It also explains how to write and run a Python script."
+  }
+]

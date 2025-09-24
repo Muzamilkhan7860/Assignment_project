@@ -1,0 +1,9 @@
+Here’s a clear and concise summary of the findings:  
+
+1. **Behavioral Analysis & BERT**: A study proposes a robust malware detection model combining behavioral-based analysis with BERT (a deep learning technique) for improved classification.  
+2. **Machine Learning Approaches**: Research explores malware detection using ML methods like K-Nearest Neighbors (KNN) to evaluate effectiveness.  
+3. **Systematic Review (PRISMA 2020)**: A review analyzes current trends and emerging techniques in malware detection and classification.  
+4. **Deep Learning with CNNs**: A study applies Convolutional Neural Networks (CNNs) to malware classification by processing semantically extracted features.  
+5. **Feature Optimization in ML**: Research assesses how feature selection, scaling, and ML models impact malware detection performance using binary classification datasets.  
+
+**Key Themes**: Behavioral analysis, deep learning (BERT, CNNs), traditional ML (KNN), and feature optimization are prominent in advancing malware detection and classification.

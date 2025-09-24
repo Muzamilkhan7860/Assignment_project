@@ -13,7 +13,7 @@ def main():
 
     api_key = os.getenv("OPENROUTER_API_KEY")
     if not api_key:
-        raise RuntimeError("❌ OPENROUTER_API_KEY not found in environment. Check your .env file!")
+        raise RuntimeError(" OPENROUTER_API_KEY not found in environment. Check your .env file!")
 
     print(f" Loaded OPENROUTER_API_KEY (length {len(api_key)} characters)")
 

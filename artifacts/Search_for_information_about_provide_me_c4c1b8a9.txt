@@ -1,0 +1,3 @@
+Artifact for task: Search for information about: provide me 5 research article based on that provide me python code for phishing detection
+
+notes: Search for 5 research articles on phishing detection and extract relevant Python code examples.

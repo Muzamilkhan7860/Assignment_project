@@ -1,0 +1,9 @@
+#!/usr/bin/env python3
+# Basic Python script template
+
+def main():
+    # Main functionality goes here
+    print("Hello, world!")
+
+if __name__ == "__main__":
+    main()

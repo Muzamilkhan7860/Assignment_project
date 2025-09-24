@@ -1,0 +1,27 @@
+[
+  {
+    "title": "A robust and dynamic malware detection and classification model ...",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327604",
+    "snippet": "Research Article. A robust and dynamic malware detection and classification model using behavioral-based analysis and BERT technique. Abdulrahman Hassan"
+  },
+  {
+    "title": "Analyzing and comparing the effectiveness of malware detection",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10770453/",
+    "snippet": "This study will explore malware detection and classification elements using modern machine learning (ML) approaches, including K-Nearest Neighbors (KNN)"
+  },
+  {
+    "title": "Systematic Review: Malware Detection and Classification in ... - MDPI",
+    "url": "https://www.mdpi.com/2076-3417/15/14/7747",
+    "snippet": "This systematic review, which follows the PRISMA 2020 framework, aims to analyze current trends and new methods for malware detection and classification."
+  },
+  {
+    "title": "Semantic Malware Classification Using Artificial Intelligence ...",
+    "url": "https://www.sciencedirect.com/org/science/article/pii/S1526149225000566",
+    "snippet": "This research applies deep learning to malware detection, using Convolutional Neural Network (CNN) architectures adapted to work with semantically extracted"
+  },
+  {
+    "title": "Enhancing malware detection with feature selection and scaling ...",
+    "url": "https://www.nature.com/articles/s41598-025-93447-x",
+    "snippet": "This study uses a binary tabular classification dataset to evaluate the impact of feature selection, feature scaling, and machine learning (ML) models on"
+  }
+]

@@ -1,0 +1,12 @@
+Here’s a clear summary of the findings:  
+
+1. **Phishing Detection Using Machine Learning**: Several studies use machine learning (ML) to detect phishing websites by treating it as a binary classification problem. Features extraction and well-known ML algorithms are key components.  
+
+2. **Deep Learning Approaches**: Some research proposes advanced methods, such as an **EGSO-CNN model**, which combines feature extraction with deep learning (DL) optimization for improved phishing URL detection.  
+
+3. **URL-Based Analysis**: Phishing detection often focuses on URL analysis, leveraging both traditional ML and newer DL techniques to enhance accuracy.  
+
+4. **No Major Conflicts**: Authors in these studies declare no competing interests, suggesting unbiased research.  
+
+### Key Takeaway:  
+Phishing detection relies heavily on **machine learning and deep learning**, with a focus on **feature extraction, URL analysis, and optimized models** for better accuracy.

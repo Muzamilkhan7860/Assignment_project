@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Malware Classification Using Machine Learning and Deep Learning",
+    "url": "https://www.cureusjournals.com/articles/5024-malware-classification-using-machine-learning-and-deep-learning-a-comprehensive-approach",
+    "snippet": "This research work investigates comprehensive machine learning and deep learning techniques for malware classification, addressing the"
+  },
+  {
+    "title": "(PDF) Framework for the detection and classification of malware ...",
+    "url": "https://www.researchgate.net/publication/385445369_Framework_for_the_detection_and_classification_of_malware_using_machine_learning",
+    "snippet": "This research made use of Machine Learning to detect and classify Malware by employing Machine Learning techniques including Feature Selection techniques as"
+  },
+  {
+    "title": "(PDF) Malware Classification Using Machine Learning and Deep ...",
+    "url": "https://www.researchgate.net/publication/393514615_Malware_Classification_Using_Machine_Learning_and_Deep_Learning_A_Comprehensive_Approach",
+    "snippet": "This research work investigates comprehensive machine learning and deep learning techniques for malware classification, addressing the"
+  },
+  {
+    "title": "Static Malware Detection and Classification Using Machine Learning",
+    "url": "https://www.mdpi.com/2673-4591/107/1/76",
+    "snippet": "This study proposes a static analysis-based approach using machine learning classifiers, focusing on Random Forest, Decision Tree, and Support"
+  },
+  {
+    "title": "Efficient Malware Classification Using Multiprocessing and Bag-of ...",
+    "url": "https://www.sciencepublishinggroup.com/article/10.11648/j.net.20251201.12",
+    "snippet": "The authors provide a robust and scalable solution for large-scale malware detection and classification by combining traditional machine-learning techniques"
+  }
+]

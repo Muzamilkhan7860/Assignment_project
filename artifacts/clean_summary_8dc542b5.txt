@@ -1,0 +1,23 @@
+Here’s a clear summary of the key findings from the provided sources:
+
+1. **Machine Learning for Phishing Detection**:  
+   - Machine Learning (ML) is widely used to detect phishing websites by training classifiers on relevant features.  
+   - A systematic review of 67 studies highlighted ML’s effectiveness but noted the exclusion of Deep Learning techniques.  
+   - Another study explored Deep Learning algorithms for phishing detection, suggesting a shift toward more advanced methods.
+
+2. **Evolving Phishing Tactics (QR Codes)**:  
+   - Attackers are increasingly using QR codes in phishing campaigns, often hiding malicious URLs behind redirections to evade detection.  
+   - Cloudflare Turnstile is being exploited for user verification, making phishing attempts more convincing.  
+   - Improved security awareness and technical solutions are needed to combat these sophisticated tactics.
+
+3. **Neural Networks in Phishing Detection**:  
+   - A study analyzed 133,667 phishing websites, demonstrating the potential of neural networks in detecting phishing URLs.  
+
+4. **Comprehensive Phishing Detection Survey**:  
+   - A taxonomy-based survey reviewed phishing detection techniques across mobile, web, and email platforms, emphasizing the need for multi-faceted solutions.  
+
+5. **Phishing Trends and Training (2025)**:  
+   - Security awareness training, behavior change programs, and automated incident response are critical to mitigating human-related cyber risks.  
+   - Personalized phishing training and advanced tools are recommended to empower employees against evolving threats.  
+
+**Overall Trend**: Phishing attacks are becoming more sophisticated, requiring advanced detection methods (ML, Deep Learning) and proactive security training to protect users.

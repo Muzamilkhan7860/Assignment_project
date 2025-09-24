@@ -108,7 +108,9 @@ def supervisor_node(state: GraphState):
 workflow = StateGraph(GraphState)
 workflow.add_node("supervisor", supervisor_node)
 workflow.set_entry_point("supervisor")
-graph = workflow.compile(checkpointer=MemorySaver())
+# graph = workflow.compile(checkpointer=MemorySaver())   #for  running main.py file
+
+graph = workflow.compile()
 
 
 def run_supervisor(objective: str):

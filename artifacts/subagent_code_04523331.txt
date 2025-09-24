@@ -1,0 +1,16 @@
+import json
+
+def summarize_findings(data):
+    # Example function to process and summarize data
+    summary = {
+        'key_points': [],
+        'total_items': len(data)
+    }
+    for item in data:
+        if 'important' in item and item['important']:
+            summary['key_points'].append(item)
+    return summary
+
+# Example usage:
+# data = [{'title': 'Finding 1', 'important': True}, {'title': 'Finding 2', 'important': False}]
+# print(summarize_findings(data))

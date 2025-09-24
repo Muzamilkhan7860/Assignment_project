@@ -1,0 +1,9 @@
+{
+  "graphs": {
+    "default": "graph:graph"
+  },
+  "dependencies": [
+    ".",
+    "supervisor"
+  ]
+}

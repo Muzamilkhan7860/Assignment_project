@@ -1,0 +1,2 @@
+Artifact for task: Write a Python script based on the objective
+notes: Need the specific objective to provide complete code. Will create a template script structure that can be adapted. Important to include error handling and documentation.

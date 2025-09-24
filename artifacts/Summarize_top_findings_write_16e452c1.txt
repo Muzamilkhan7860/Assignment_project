@@ -1,0 +1,2 @@
+Artifact for task: Summarize top findings
+notes: To summarize top findings, we'll need to gather data from files or online sources, extract key points, and compile them into a concise summary.

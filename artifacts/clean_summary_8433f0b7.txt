@@ -1,0 +1,11 @@
+Here’s a clear summary of the findings:
+
+1. **Machine and Deep Learning for Malware Classification**: Multiple studies explore machine learning (ML) and deep learning (DL) techniques to classify malware, aiming to improve detection accuracy and efficiency.  
+
+2. **Feature Selection and Frameworks**: Some research emphasizes feature selection methods and frameworks to enhance malware detection and classification using ML.  
+
+3. **Static Analysis Approaches**: One study proposes static analysis combined with ML classifiers like Random Forest, Decision Tree, and Support Vector Machines (SVM) for malware detection.  
+
+4. **Scalable Solutions**: Another work introduces a scalable approach using multiprocessing and Bag-of-Words models to handle large-scale malware classification efficiently.  
+
+Overall, these studies highlight the growing use of ML/DL, feature optimization, and hybrid techniques to improve malware classification.

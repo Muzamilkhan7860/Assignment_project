@@ -1,0 +1,2 @@
+Artifact for task: Summarize top findings
+notes: To summarize top findings, we need to gather relevant data from authoritative sources. This can be done by searching the internet for key articles or reports and then scraping the necessary information from those pages.

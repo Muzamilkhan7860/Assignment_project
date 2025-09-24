@@ -1,0 +1,2 @@
+Artifact for task: Search for information about: Provide me some recent publication on spyware detection with the help of machine learning also provide me python code for classification
+notes: Searching for recent publications on spyware detection using machine learning and Python code for classification.

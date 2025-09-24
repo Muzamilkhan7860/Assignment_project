@@ -1,0 +1,2 @@
+Artifact for task: Summarize top findings
+notes: To summarize top findings, we will first search the internet for relevant sources and then scrape the necessary data from those sources.

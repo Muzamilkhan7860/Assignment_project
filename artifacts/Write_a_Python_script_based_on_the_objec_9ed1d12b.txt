@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Making a Python script Object-Oriented - Stack Overflow",
+    "url": "https://stackoverflow.com/questions/1813117/making-a-python-script-object-oriented",
+    "snippet": "I'm writing an application in Python that is going to have a lot of different functions, so logically I thought it would be best to split up my script into"
+  },
+  {
+    "title": "How can I generate some Python scripts based on different ...",
+    "url": "https://stackoverflow.com/questions/58015230/how-can-i-generate-some-python-scripts-based-on-different-conditions-nicely",
+    "snippet": "I want to generate some Python scripts based on different conditions. It means: I have a constant body of my Python scripts, which is exactly the same in all"
+  },
+  {
+    "title": "How to Build a Python Script: A Beginner's Guide to ... - Codecademy",
+    "url": "https://www.codecademy.com/article/python-scripting",
+    "snippet": "## What is a Python script? python-scripts/ \u251c\u2500\u2500 rename_files.py # Your main Python script file Python allows us to import pre-written code (called modules) to extend the functionality of our script. In Python, it\u2019s common to include a special `if __name__ == \"__main__\":` block to run our script only when executed directly, not when imported as a module into another script. Let us build a Python script that automates a task: renaming files in a folder. ## How to run a Python script? ### Run the Python script from the terminal * Run the Python script using this command: ### Run the Python script on Visual Studio Code * What is a Python script? * How to run a Python script?"
+  },
+  {
+    "title": "How to Write and Run a Python Script | Linode Docs",
+    "url": "https://www.linode.com/docs/guides/how-to-write-and-run-python-script/",
+    "snippet": "This guide describes the basic concepts behind Python, including how to install and use Python modules. It also explains how to write and run a Python script."
+  },
+  {
+    "title": "How Did You Learn to Write Good Python Scripts (Not Just Basics ...",
+    "url": "https://www.reddit.com/r/learnpython/comments/1mrto5b/how_did_you_learn_to_write_good_python_scripts/",
+    "snippet": "How Did You Learn to Write Good Python Scripts (Not Just Basics) and also solve problems? Skip to main contentHow Did You Learn to Write Good Python Scripts (Not Just Basics) and also solve problems? Open menu Open navigationGo to Reddit Home Subreddit for posting questions and asking for general advice about all topics related to learning python. How Did You Learn to Write Good Python Scripts (Not Just Basics) and also solve problems? Hey Everyone, I\u2019ve been learning Python and I can do the basics, but I want to go deeper especially into writing useful scripts for automating tasks, solving problems, and eventually building skills that will also help me in machine learning. New to Reddit?"
+  }
+]

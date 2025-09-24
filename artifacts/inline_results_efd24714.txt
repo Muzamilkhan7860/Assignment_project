@@ -1,0 +1,6 @@
+{
+  "initial_candies": 5,
+  "candies_given": 2,
+  "candies_received": 10,
+  "final_candies": "Initial candies (5) - Given (2) + Received (10) = 13"
+}

@@ -1,0 +1,13 @@
+import requests
+from bs4 import BeautifulSoup
+
+def scrape_phishing_paper(url):
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, 'html.parser')
+    title = soup.find('h1').text
+    abstract = soup.find('div', class_='abstract').text
+    return {'title': title, 'abstract': abstract}
+
+# Example usage:
+# paper_info = scrape_phishing_paper('URL_to_scrape')
+# print(paper_info)
